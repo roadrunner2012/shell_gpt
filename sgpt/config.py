@@ -66,6 +66,6 @@ def put(key: str, value: str, write_file=True) -> None:
     if not write_file:
         return
     _write()
-//hello world
+
 
 init()
