@@ -1,4 +1,4 @@
-from . import config as config
+ from . import config as config
 from .cache import Cache as Cache
 from .cache import ChatCache as ChatCache
 from .client import OpenAIClient as OpenAIClient
